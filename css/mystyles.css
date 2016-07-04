@@ -61,5 +61,10 @@ body{
     color:#000000;
 }
 
+/*<!--
+.form-inline{
+    padding-top: 5px
+}
+*/
  <!-- for dropdown to work -->
 .open .dropdown-menu{display:block;}
